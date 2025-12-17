@@ -26,7 +26,7 @@
 - Become a professional Security Analyst / Penetration Tester
 
 ## 📫 Contact
-- GitHub: [https://github.com/MalikAamish](https://github.com/MalikAamish)
+- GitHub: [https://github.com/malikaamish](https://github.com/malikaamish)
 - Email: malikaamish16@gmail.com
 
 <!--
